@@ -1,0 +1,6 @@
+<svg width="22" height="10" viewBox="0 0 22 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Toggle - Disabled">
+<path id="Toggle Area" fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 2.23858 2.23858 0 5 0H16.1111C18.8725 0 21.1111 2.23858 21.1111 5C21.1111 7.76142 18.8725 10 16.1111 10H5.00001C2.23858 10 0 7.76142 0 5Z" fill="#E8EDFE"/>
+<circle id="Toggle" cx="15" cy="5" r="4" fill="#34A853"/>
+</g>
+</svg>
